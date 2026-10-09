@@ -1,0 +1,18 @@
+{
+    "name": "航空公司呼号查询",
+    "short_name": "呼号查询",
+    "description": "ICAO 三字码 / 航空公司呼号速查",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#f8f9fb",
+    "theme_color": "#0f172a",
+    "icons": [
+        {
+            "src": "img/text-style.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ]
+}
